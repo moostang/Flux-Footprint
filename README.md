@@ -14,5 +14,6 @@ This package consist of
   
   Please download this program from the original source at http://footprint.kljun.net/
   
-Reference
-Kljun, N., P. Calanca, M.W. Rotach, H.P. Schmid, (2015) The simple two-dimensional parameterisation for Flux Footprint Predictions FFP. Geosci. Model Dev. 8, 3695-3713, doi:10.5194/gmd-8-3695-2015, for details.
+# Reference
+
+Kljun, N., P. Calanca, M.W. Rotach, H.P. Schmid, (2015) The simple two-dimensional parameterisation for Flux Footprint Predictions FFP. Geosci. Model Dev. 8, 3695-3713, doi:10.5194/gmd-8-3695-2015
