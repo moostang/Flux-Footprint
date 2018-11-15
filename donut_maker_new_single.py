@@ -380,11 +380,6 @@ for j in range(6,8):
 
 
 
-# test writing to gdb and deleting it.
-# https://www.programcreek.com/python/example/107192/arcpy.Delete_management
-
-
-
 
 
 
